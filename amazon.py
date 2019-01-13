@@ -3,7 +3,7 @@ import requests
 import sys
 from json import dump,loads
 from lxml import html
-import re
+# import re
 
 
 def getReviews(url):
