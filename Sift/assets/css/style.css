@@ -88,7 +88,8 @@ a:hover {
 }
 
 .heading {
-    color:#fff;
+	color:#fff;
+	text-align: center;
 }
 
 .heading-text{
