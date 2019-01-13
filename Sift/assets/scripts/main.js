@@ -144,3 +144,8 @@
 
 
 })(jQuery);
+
+function getUrl() {
+    var pathname = window.location.pathname;
+    return pathname;
+}
