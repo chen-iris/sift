@@ -15,12 +15,12 @@
     "default_popup": "popup.html",
 
     "default_icon": {
-      "128": "images/test_icon.png"
+      "128": "images/Sift_Logo.png"
     }
   },
 
   "icons": {
-      "128": "images/test_icon.png"
+      "128": "images/Sift_Logo.png"
   },
 
   "permissions": [

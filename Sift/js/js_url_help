@@ -1,0 +1,6 @@
+/html/head/script[6]/text()
+
+document.getElementsByTag(html);
+document.getElementsByTag(head);
+document.getElementByTag(script)[6];
+document.getElementB
