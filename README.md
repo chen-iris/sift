@@ -1,7 +1,7 @@
 # ReviewScraper
 Starterhacks 2019
 
-This is the project which is designed and developed as the part of StarterHacks 2019.
+This is the project is designed and developed as the part of StarterHacks 2019.
 
 The repository has code for a chrome extention that can summarize a product on the screen from a e-commerce site and provides comparision and recommendations for the user at a single place.
 
