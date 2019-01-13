@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC');
+
+* {
+    /* get rid of automatic margins */
+    margin: 0 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #8A96D0;
+    color: white;
+}
+
+h1 {
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}

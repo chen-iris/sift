@@ -1,0 +1,30 @@
+{
+  "name": "Sift",
+  "version": "1.0",
+  "description": "Help consumers make the best purchase through informing them of risk through summarizing past reviews.",
+  "manifest_version": 2,
+
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ],
+    "persistent": false
+  },
+
+  "browser_action": {
+    "default_popup": "popup.html",
+
+    "default_icon": {
+      "128": "images/test_icon.png"
+    }
+  },
+
+  "icons": {
+      "128": "images/test_icon.png"
+  },
+
+  "permissions": [
+    "tabs"
+  ]
+  
+}
