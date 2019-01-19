@@ -1,6 +1,6 @@
 # Sift
 
-This is the project designed and developed in 24 hours in StarterHacks 2019.
+T#his is the project designed and developed in 24 hours in StarterHacks 2019.
 
 The repository has code for a chrome extension that summarizes a product on the screen from a e-commerce site by comparing the reviews and prices of a similar product on competing websites for the user at a single place. 
 
