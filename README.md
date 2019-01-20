@@ -8,6 +8,6 @@ Sift is a project that:
 
 2. Summarizes the product along with the overall sentiment value across all shopping platforms by training an e-commerce review data set. The Machine learning model is trained using simple Logistic Regression
 
-3. The model is deployed as a REST Api as a python flask app and Sift is a chrome extension which will call the REST Apis to get the product summarizations and recommendations for every product viewed.
+3. The model is deployed as a REST API as a python flask app and Sift is a chrome extension which will call the REST API to get the product summarizations and recommendations for every product viewed.
 
 
