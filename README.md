@@ -2,7 +2,7 @@
 
 Wouldn't it be convenient if we could compare prices and reviews of every online product sold on different platforms?
 
-Well, we can now!
+Well, you can now!
 
 Sift is a project that:
 
