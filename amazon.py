@@ -49,8 +49,7 @@ def getReviews(url):
                 'reviewlists' : reviewlists
             }
     return data
-        
-    
+  
 
 def main():
     product = sys.argv[1] #product name
