@@ -12,4 +12,4 @@ Sift is a project that:
 
 3. The model is deployed as a REST API python flask app. As a Chrome extension, Sift calls the REST API to get the product summarizations and recommendations for every product viewed.
 
-Sift simplifies online shopping and helps customers make informed purchasing decisions. 
+Sift helps customers make informed purchasing decisions by simplifying the online shopping experience.  
